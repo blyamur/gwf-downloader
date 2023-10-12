@@ -1,4 +1,5 @@
-## Script for downloading Google web fonts \ Скрипт для загрузки веб-шрифтов Google
+## Script for downloading Google web fonts 
+## Скрипт для загрузки веб-шрифтов Google
 
 A python script to download  `*.woff2` fonts from a source like:  `https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&family=Roboto&display=swap` for further use on a web site from the local directory of the site.
 
