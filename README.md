@@ -53,6 +53,9 @@ If at the very end of the script, the line `url = input("Paste the link and pres
 - [x] You can set the link in the script itself \ Можно задать сссылку в самом скрипте
 - [x] Task progress indication \ Индикация выполнения задачи
 
+![Start window ](images/screen_001.png)
+![Result of script execution](images/screen_002.png)
+
 ## License | Лицензия 
 
  It is important to always read the license for every font that you use. Each font family directory contains the appropriate license file for the fonts in that directory. The fonts files themselves also contain licensing and authorship metadata.
